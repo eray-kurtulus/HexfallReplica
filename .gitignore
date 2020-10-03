@@ -45,7 +45,6 @@ Assets/UserData
 # Visual Studio cache directory
 .vs/
 # Builds
-*.apk
 *.unitypackage
 AndroidResolverDependencies.xml
 Packages/packages-lock.json
